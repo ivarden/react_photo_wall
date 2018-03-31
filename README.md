@@ -1,4 +1,4 @@
-This project on Heroku[React Photo Wall](https://react-photo-wall.herokuapp.com/).
+This project on Heroku [React Photo Wall](https://react-photo-wall.herokuapp.com/).
 
 ## Available Scripts
 
